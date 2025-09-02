@@ -9,11 +9,13 @@ Define **AXOLOTL**= precious cargo
 
 Define **DOPAMINE**= unit of satisfaction=12
 
+Define **fish tails**= universal aquatic associated credit unit exchange
+
 Time frame TOTAL= 5 HOURS
 
 Time per task unit= 11.53846153846154 MINUTES
 
-1. MOVEMENT ACTIVATED Go to fish tails store.
+1. MOVEMENT ACTIVATED Go to **fish tails** store.
 2. LOCATE a 30 inch by 60 inch auquarium made of transparent glass.
 3. PLACE in **shopping cart**.
 4. LOCATE water filter.
