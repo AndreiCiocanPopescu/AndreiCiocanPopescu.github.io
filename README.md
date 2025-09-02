@@ -35,8 +35,4 @@ How to make a fishtank for your pet axolotl
 26. Release DOPAMINE for a job well done.
 
 
-2: Fill it with decorative material.
 
-3: Fill the tank with water.
-
-4: Place your preffered axolotl in the tank.
