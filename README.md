@@ -1,5 +1,15 @@
-# AndreiCiocanPopescu.github.io
+# Information of unit Andrei Ciocan Popescu.
+
+## Name: Andrei Ciocan Popescu
+
+## Class year: 2028
+
+## Location: Weaslyan Hall, Dorm 7.(Roomate: Nathan)
+
+Coding experience: I've made multiple fun mini-games as well as around 2 sights at my old school# AndreiCiocanPopescu.github.io
 My github page for school.
+
+
 
 # How to make a fishtank for your pet axolotl
 
@@ -47,3 +57,14 @@ Time per task unit= 11.53846153846154 MINUTES
 
 
 
+# Information of unit Andrei Ciocan Popescu.
+
+## Name: Andrei Ciocan Popescu
+
+## Class year: 2028
+
+## Location: Weaslyan Hall, Dorm 7.(Roomate: Nathan)
+
+Coding experience: I've made multiple fun mini-games as well as around 2 sights at my old school.
+
+Goals: Understand code and computing to a higher extent. I want to polish my skills and learn how to read and make more complex code, as coding is essential in a technol
